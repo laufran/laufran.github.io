@@ -2,33 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Evolutionary Biologist | Postdoctoral Researcher at University of Washington
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # crop to circle if true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+    <p>Tribble Lab</p>
+    <p>University of Washington</p>
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I am a post-doc in the [Tribble Lab](https://tribblelab.github.io/) at the University of Washington.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm an evolutionary biologist studying the inference of hybridization in evolutionary histories. Particularly, I'm interested in illuminating assumptions of inference methods and their performances when broken, developing useful tools and documentation, and testing these in empirical systems. I have a particular fondness for Andean angiosperm radiations — studying the evolution of their floral morphologies, pollination systems, and biogeography.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Ph.D. in Botany at the University of Wisconsin-Madison in [Dr. Cécile Ané's lab](https://pages.stat.wisc.edu/~ane/). There, I studied the accuracy of hybridization inference methods, and applied these to understand hybridization and trait evolution in the Neotropical bellflowers (Campanulaceae: Lobelioideae). I was supported by a National Science Foundation Graduate Research Fellowship. Prior to my PhD, I was the data analyst in the [Espíndola Lab](https://espindolab.weebly.com/) at the University of Maryland studying the biogeography of *Calceolaria* slipperflowers (Calceolariaceae).
+
+My hobbies outside of academia include: running with friends, curling up with a good book (and usually devouring in one sitting), paddling on lakes and streams, hiking and camping, and printmaking. I was born and raised in New Jersey, which you can easily start a conversation about if you bring up Bruce Springsteen, good bagels, and/or the right not to pump your own gas.
