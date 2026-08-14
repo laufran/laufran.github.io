@@ -2,7 +2,7 @@
 layout: post
 title: Genetics paper published
 date: 2026-01-01 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
