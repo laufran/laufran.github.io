@@ -4,7 +4,7 @@ cv:
   email: laufran@uw.edu
   location: Seattle, WA
   image: ""
-  summary: Evolutionary biologist, focusing on plant systematics and hybridization inference methods
+  summary: Evolutionary biologist, focusing on plant systematics and hybridization inference methods.
 
   social_networks:
     - network: BlueSky
@@ -13,262 +13,307 @@ cv:
       username: laufran
     - network: LinkedIn
       username: frankellauren
+    - network: Google Scholar
+      username: jP0rXRcAAAAJ
 
-  address:
-    city: Seattle
-    region: Washington
-    countryCode: US
+  sections:
+    Education:
+      - institution: University of Wisconsin–Madison
+        location: Madison, WI
+        area: Botany
+        degree: PhD
+        start_date: 2020
+        end_date: 2025
+        highlights:
+          - "GPA: 4.00 / 4.00"
+      - institution: University of Wisconsin–Madison
+        location: Madison, WI
+        area: Botany
+        degree: MS
+        start_date: 2020
+        end_date: 2023
+        highlights:
+          - "GPA: 4.00 / 4.00"
+      - institution: Grinnell College
+        location: Grinnell, IA
+        area: Biology
+        degree: BA with Honors
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - "GPA: 3.72 / 4.00"
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Botany
-      institution: University of Wisconsin–Madison, Madison, WI
-      year: 2020 – 2025
-      description:
-        - "GPA: 4.00 / 4.00"
-    - title: Master of Science in Botany
-      institution: University of Wisconsin–Madison, Madison, WI
-      year: 2020 – 2023
-      description:
-        - "GPA: 4.00 / 4.00"
-    - title: Bachelor of Arts in Biology with Honors
-      institution: Grinnell College, Grinnell, IA
-      year: 2015 – 2019
-      description:
-        - "GPA: 3.72 / 4.00"
+    Selected Research Skills:
+      - label: Coding Languages
+        details: "Julia (advanced), Bash (intermediate), R (intermediate), Python (intermediate)"
+      - label: Phylogenomics
+        details: "Plastome and targeted sequence capture assembly, alignment, annotation, tree estimation, simulation of networks, trees, & sequences"
 
-- title: Selected Research Skills
-  type: map
-  contents:
-    - name: Coding Languages
-      value: "Julia (advanced), Bash (intermediate), R (intermediate), Python (intermediate)"
-    - name: Phylogenomics
-      value: "Plastome and targeted sequence capture assembly, alignment, annotation, tree estimation, simulation of networks, trees, & sequences"
+    Research Experience:
+      - company: Tribble Lab, University of Washington
+        location: Seattle, WA
+        position: Postdoctoral Scholar
+        start_date: 2025-10
+        end_date: present
+        highlights:
+          - "Infer phylogenetic relationships and disentangling reticulate evolution between Cheilanthoid ferns (Pteridaceae: Cheilanthoideae) from long-read sequence data"
+          - "Estimate relationship between niche overlap and hybridization histories in Calceolaria (Calceolariaceae)"
+      - company: C. Ané Lab, University of Wisconsin–Madison
+        location: Madison, WI
+        position: PhD Candidate
+        start_date: 2021-01
+        end_date: 2025-08
+        highlights:
+          - "Simulated the effect of substitution rate variation on hybridization summary statistics, determining most methods tested have high type-1 error in the face of lineage-rate variation"
+          - "Evaluated accuracy of complex admixture graph inference from f-statistics through simulations"
+          - "Assessed the relationship between introgression and trait evolution in Neotropical bellflowers (Campanulaceae: Lobelioideae)"
+      - company: Espíndola Lab, University of Maryland
+        location: College Park, MD
+        position: Data Analyst
+        start_date: 2019-07
+        end_date: 2020-07
+        highlights:
+          - "Extracted, aligned, and annotated chloroplast genomes in 14 Calceolaria (Calceolariaceae) species towards initial phylogenomic work to resolve the clade's backbone"
+          - "Estimated backbone genus phylogeny for Calceolaria and modeled biogeography evolution"
+      - company: Lagomarsino Lab, Louisiana State University
+        location: Baton Rouge, LA
+        position: Visiting Undergraduate Researcher
+        start_date: 2018-05
+        end_date: 2018-08
+        highlights:
+          - "Compared the efficacy of herbarium vs. fresh tissue samples in phylogenomic analyses using sequence capture data for Neotropical bellflowers (Campanulaceae: Lobelioideae)"
+          - "Evaluated phylogeographic origins of three co-occurring congeners with differing pollination syndromes"
+      - company: Reagon Lab, Next-Gen Evolutionary Biology REU, Ohio State University
+        location: Columbus, OH
+        position: Undergraduate Researcher
+        start_date: 2017-05
+        end_date: 2017-07
+        highlights:
+          - "Performed ddRAD sequencing and analyzed SNP data to infer population structure of an invasive agricultural weed, Palmer amaranth (Amaranthus palmeri)"
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Scholar
-      institution: Tribble Lab, University of Washington, Seattle, WA
-      year: Oct 2025 – Present
-      description:
-        - "Infer phylogenetic relationships and disentangling reticulate evolution between Cheilanthoid ferns (Pteridaceae: Cheilanthoideae) from long-read sequence data"
-        - "Estimate relationship between niche overlap and hybridization histories in Calceolaria (Calceolariaceae)"
-    - title: PhD Candidate
-      institution: C. Ané Lab, University of Wisconsin–Madison, Madison, WI
-      year: Jan 2021 – Aug 2025
-      description:
-        - "Simulated the effect of substitution rate variation on hybridization summary statistics, determining most methods tested have high type-1 error in the face of lineage-rate variation"
-        - "Evaluated accuracy of complex admixture graph inference from f-statistics through simulations"
-        - "Assessed the relationship between introgression and trait evolution in Neotropical bellflowers (Campanulaceae: Lobelioideae)"
-    - title: Data Analyst
-      institution: Espíndola Lab, University of Maryland, College Park, MD
-      year: Jul 2019 – Jul 2020
-      description:
-        - "Extracted, aligned, and annotated chloroplast genomes in 14 Calceolaria (Calceolariaceae) species towards initial phylogenomic work to resolve the clade's backbone"
-        - "Estimated backbone genus phylogeny for Calceolaria and modeled biogeography evolution"
-    - title: Visiting Undergraduate Researcher
-      institution: Lagomarsino Lab, Louisiana State University, Baton Rouge, LA
-      year: May 2018 – Aug 2018
-      description:
-        - "Compared the efficacy of herbarium vs. fresh tissue samples in phylogenomic analyses using sequence capture data for Neotropical bellflowers (Campanulaceae: Lobelioideae)"
-        - "Evaluated phylogeographic origins of three co-occurring congeners with differing pollination syndromes"
-    - title: Undergraduate Researcher
-      institution: Reagon Lab, Next-Gen Evolutionary Biology REU, Ohio State University, Columbus, OH
-      year: May 2017 – Jul 2017
-      description:
-        - "Performed ddRAD sequencing and analyzed SNP data to infer population structure of an invasive agricultural weed, Palmer amaranth (Amaranthus palmeri)"
+    Teaching Experience:
+      - company: Botany Dept., University of Wisconsin–Madison
+        location: Madison, WI
+        position: Teaching Assistant
+        start_date: 2024-08
+        end_date: 2024-12
+        highlights:
+          - "Led three discussion sections for Evolutionary Biology (BOT410) with ~25 students in each section, designing instructional material each week to further understanding of lecture material"
+          - "Developed problem sets, graded assignments and exams, hosted office hours"
+      - company: Integrative Biology Dept., University of Wisconsin–Madison
+        location: Madison, WI
+        position: Teaching Assistant
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+          - "Led four discussion sections for Intro Biology (BIO152) with ~22 students in each section, guiding group activities and reviewing homework to reinforce lecture material"
+          - "Supervised 14 students as they wrote their semester-long independent research papers"
+      - company: Data Analysis and Social Inquiry Lab, Grinnell College
+        location: Grinnell, IA
+        position: GIS and R Mentor
+        start_date: 2016-04
+        end_date: 2019-05
+        highlights:
+          - "TAed for Intro GIS course by offering support in class and holding weekly mentor sessions and office hours"
+          - "Assisted faculty in creating a class exercise for Politics of Congress course using ArcMap"
+          - "Built a Shiny app with R for students to interact with and learn from locally collected biogeochemical data"
+          - "Collaborated with professors to produce maps for academic publications (French, 2018; Inglis, 2019)"
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: Botany Dept., University of Wisconsin–Madison, Madison, WI
-      year: Aug 2024 – Dec 2024
-      description:
-        - "Led three discussion sections for Evolutionary Biology (BOT410) with ~25 students in each section, designing instructional material each week to further understanding of lecture material"
-        - "Developed problem sets, graded assignments and exams, hosted office hours"
-    - title: Teaching Assistant
-      institution: Integrative Biology Dept., University of Wisconsin–Madison, Madison, WI
-      year: Jan 2021 – May 2021
-      description:
-        - "Led four discussion sections for Intro Biology (BIO152) with ~22 students in each section, guiding group activities and reviewing homework to reinforce lecture material"
-        - "Supervised 14 students as they wrote their semester-long independent research papers"
-    - title: GIS and R Mentor
-      institution: Data Analysis and Social Inquiry Lab, Grinnell College, Grinnell, IA
-      year: Apr 2016 – May 2019
-      description:
-        - "TAed for Intro GIS course by offering support in class and holding weekly mentor sessions and office hours"
-        - "Assisted faculty in creating a class exercise for Politics of Congress course using ArcMap"
-        - "Built a Shiny app with R for students to interact with and learn from locally collected biogeochemical data"
-        - "Collaborated with professors to produce maps for academic publications (French, 2018; Inglis, 2019)"
+    Natural History Collections Experience:
+      - company: Great Smoky Mountains National Park
+        location: Gatlinburg, TN
+        position: Natural History Collections Assistant
+        start_date: 2015-06
+        end_date: 2015-08
+        highlights:
+          - "Accessioned, catalogued, and reorganized ~800 birds and lichens"
+          - "Rehoused and relabeled ~400 fluid preserved fishes, reptiles, and amphibians"
+      - company: American Museum of Natural History
+        location: New York, NY
+        position: Mammalogy Intern
+        start_date: 2014-09
+        end_date: 2015-05
+        highlights:
+          - "Identified and databased ~3,000 early Quaternary chiropteran fossils"
+          - "Aided in the recuration of carnivoran specimens and improved collections conditions"
 
-- title: Natural History Collections Experience
-  type: time_table
-  contents:
-    - title: Natural History Collections Assistant
-      institution: Great Smoky Mountains National Park, Gatlinburg, TN
-      year: Jun 2015 – Aug 2015
-      description:
-        - "Accessioned, catalogued, and reorganized ~800 birds and lichens"
-        - "Rehoused and relabeled ~400 fluid preserved fishes, reptiles, and amphibians"
-    - title: Mammalogy Intern
-      institution: American Museum of Natural History, New York, NY
-      year: Sep 2014 – May 2015
-      description:
-        - "Identified and databased ~3,000 early Quaternary chiropteran fossils"
-        - "Aided in the recuration of carnivoran specimens and improved collections conditions"
+    Publications:
+      - title: Low accuracy of complex admixture graph inference from f-statistics
+        authors:
+          - Lauren E. Frankel
+          - Cécile Ané
+        journal: Genetics
+        date: 2026
+        highlights:
+          - "232(1), iyaf259"
+      - title: Summary tests of introgression are highly sensitive to rate variation across lineages
+        authors:
+          - Lauren E. Frankel
+          - Cécile Ané
+        journal: Systematic Biology
+        date: 2023
+        highlights:
+          - "72(6), 1357–1369"
+      - title: "Increased resolution in the face of conflict: phylogenomics of the Neotropical bellflowers (Campanulaceae: Lobelioideae), a rapid plant radiation"
+        authors:
+          - Laura P. Lagomarsino
+          - Lauren Frankel
+          - Simon Uribe-Convers
+          - Alexandre Antonelli
+          - Nathan Muchhala
+        journal: Annals of Botany
+        date: 2022
+        highlights:
+          - "129(6), 723–736"
+      - title: "Biogeography and ecological drivers of evolution in the Andes: resolving the phylogenetic backbone for Calceolaria (Calceolariaceae)"
+        authors:
+          - Lauren Frankel
+          - Maureen Murúa
+          - Anahí Espíndola
+        journal: Botanical Journal of the Linnean Society
+        date: 2022
+        highlights:
+          - "199(1), 76–92"
 
-- title: Publications
-  type: list
-  contents:
-    - "<b>Frankel, L.</b> & Ané, C. (2026). Low accuracy of complex admixture graph inference from f-statistics. <i>Genetics</i>, 232(1), iyaf259."
-    - "<b>Frankel, L.</b> & Ané, C. (2023). Summary tests of introgression are highly sensitive to rate variation across lineages. <i>Systematic Biology</i>, 72(6), 1357-1369."
-    - "<b>Frankel, L.</b>, Murúa, M., & Espíndola, A. (2022). Biogeography and ecological drivers of evolution in the Andes: resolving the phylogenetic backbone for Calceolaria (Calceolariaceae). <i>Botanical Journal of the Linnean Society</i>, 199(1), 76-92."
-    - "Lagomarsino, L. P., <b>Frankel, L.</b>, Uribe-Convers, S., Antonelli, A., & Muchhala, N. (2022). Resolution despite conflict: Herbarium phylogenomics of Neotropical bellflowers (Campanulaceae: Lobelioideae), a rapid plant radiation. <i>Annals of Botany</i>, 129(6), 723-736."
+    Manuscripts in Revision or Preparation:
+      - title: "Introgression and trait evolution in the Neotropical bellflowers (Campanulaceae: Lobelioideae)"
+        authors:
+          - Lauren Frankel
+          - Ana Maria Bedoya
+          - Katherin Arango-Goméz
+          - Nicholas Brigida
+          - Laura Lagomarsino
+          - Cécile Ané
+        journal: In revision
+        date: 2026
+      - title: "Salicinoid salad: evolution of salicinoids in the Salicaceae tribe Saliceae (Populus and Salix)"
+        authors:
+          - Tyler Wintermute
+          - Lauren Frankel
+          - Sarah Kapsner
+          - Bryan Connelly
+          - Ken Keefover-Ring
+        journal: In preparation
+        date: 2026
 
-- title: Manuscripts in Revision or Preparation
-  type: list
-  contents:
-    - "<b>Frankel, L.</b>, Bedoya, A.M., Arango-Goméz, K., Brigida, N. (undergraduate mentee), Lagomarsino, L., Ané, C. (2026). Introgression and trait evolution in the Neotropical bellflowers (Campanulaceae: Lobelioideae)."
-    - "Wintermute, T., <b>Frankel, L.</b>, Kapsner, S., Connelly, B. & Keefover-Ring, K. (2026). Salicinoid salad: evolution of salicinoids in the Salicaceae tribe Saliceae (Populus and Salix)."
+    Fellowships & Scholarships:
+      - name: Graduate Research Fellowship ($141,000)
+        location: National Science Foundation
+        start_date: 2020
+        end_date: 2025
+      - name: Demeter Research Assistant Award ($5,425)
+        location: UW-Madison Botany
+        date: 2025
+      - name: Allen Graduate Fellowship ($17,325)
+        location: UW-Madison Botany
+        date: 2024
+      - name: Croxdale-Tyron Research Assistant Award ($7,553)
+        location: UW-Madison Botany
+        date: 2021
+      - name: Trustee Honor Scholarship ($64,000)
+        location: Grinnell College
+        start_date: 2015
+        end_date: 2019
 
-- title: Fellowships & Scholarships ($235,303)
-  type: time_table
-  contents:
-    - title: Graduate Research Fellowship ($141,000)
-      institution: National Science Foundation
-      year: 2020 – 2025
-    - title: Demeter Research Assistant Award ($5,425)
-      institution: UW-Madison Botany
-      year: 2025
-    - title: Allen Graduate Fellowship ($17,325)
-      institution: UW-Madison Botany
-      year: 2024
-    - title: Croxdale-Tyron Research Assistant Award ($7,553)
-      institution: UW-Madison Botany
-      year: 2021
-    - title: Trustee Honor Scholarship ($64,000)
-      institution: Grinnell College
-      year: 2015 – 2019
+    Grants:
+      - name: Student Research Grants Competition ($1,500)
+        location: UW-Madison Graduate School
+        date: 2025
+      - name: Davis Research Support Award ($1,577)
+        location: UW-Madison Botany
+        date: 2021
+      - name: Open Research Grant ($2,500)
+        location: Grinnell College
+        date: 2018
 
-- title: Grants ($5,577)
-  type: time_table
-  contents:
-    - title: Student Research Grants Competition ($1,500)
-      institution: UW-Madison Graduate School
-      year: 2025
-    - title: Davis Research Support Award ($1,577)
-      institution: UW-Madison Botany
-      year: 2021
-    - title: Open Research Grant ($2,500)
-      institution: Grinnell College
-      year: 2018
+    Honors & Awards:
+      - name: George R. Cooley Award ($500)
+        location: American Society of Plant Taxonomists
+        date: 2026
+        summary: "Best early career talk in plant systematics at annual Botany meeting"
+      - name: Ernst Mayr Award Finalist
+        location: Society of Systematic Biologists
+        date: 2025
+        summary: "Outstanding Ph.D. student talk in systematics at annual Evolution meeting"
+      - name: Tulipa et Paeonia Travel Award ($1,500)
+        location: UW-Madison Botany
+        date: 2025
+      - name: Davis Travel Award ($1,955)
+        location: UW-Madison Botany
+        date: 2024
+      - name: Menzel Award ($500)
+        location: Botany Conference
+        date: 2023
+        summary: "Outstanding talk in the Genetics section"
+      - name: Tulipa et Paeonia Travel Award ($2,000)
+        location: UW-Madison Botany
+        date: 2023
+      - name: Welcome Fund ($5,000)
+        location: University of Wisconsin-Madison
+        date: 2020
+      - name: Undergraduate Research Prize ($300)
+        location: American Society of Plant Taxonomists
+        date: 2019
+      - name: Travel Award ($500)
+        location: Society of Systematic Biologists Meeting
+        date: 2018
+      - name: Seifert Award ($5,000)
+        location: Grinnell College
+        date: 2017
+        summary: "Supporting field biology study abroad"
+      - name: "Dean's List (x3)"
+        location: Grinnell College
+        start_date: 2016
+        end_date: 2017
 
-- title: Honors & Awards ($15,755)
-  type: time_table
-  contents:
-    - title: George R. Cooley Award ($500)
-      institution: American Society of Plant Taxonomists
-      year: 2026
-      description: "Best early career talk in plant systematics at annual Botany meeting"
-    - title: Ernst Mayr Award Finalist
-      institution: Society of Systematic Biologists
-      year: 2025
-      description: "Outstanding Ph.D. student talk in systematics at annual Evolution meeting"
-    - title: Tulipa et Paeonia Travel Award ($1,500)
-      institution: UW-Madison Botany
-      year: 2025
-    - title: Davis Travel Award ($1,955)
-      institution: UW-Madison Botany
-      year: 2024
-    - title: Menzel Award ($500)
-      institution: Botany Conference
-      year: 2023
-      description: "Outstanding talk in the Genetics section"
-    - title: Tulipa et Paeonia Travel Award ($2,000)
-      institution: UW-Madison Botany
-      year: 2023
-    - title: Welcome Fund ($5,000)
-      institution: University of Wisconsin-Madison
-      year: 2020
-    - title: Undergraduate Research Prize ($300)
-      institution: American Society of Plant Taxonomists
-      year: 2019
-    - title: Travel Award ($500)
-      institution: Society of Systematic Biologists Meeting
-      year: 2018
-    - title: Seifert Award ($5,000)
-      institution: Grinnell College
-      year: 2017
-      description: "Supporting field biology study abroad"
-    - title: Dean's List (x3)
-      institution: Grinnell College
-      year: 2016 – 2017
+    Invited Presentations:
+      - bullet: "Lauren Frankel*, Ana Maria Bedoya, Katherin Arango-Goméz, Nicholas Brigida, Laura Lagomarsino, and Cécile Ané. (2026). Introgression and trait evolution in the Neotropical bellflowers (Campanulaceae: Lobelioideae). American Society of Plant Taxonomists Webinar Series."
+      - bullet: "Lauren Frankel*. (2025). Challenges in inferring hybridization: impacts of substitution rate variation and network complexity on accuracy. University of Rochester, Rochester, NY."
 
-- title: Invited Presentations
-  type: list
-  contents:
-    - "<b>Lauren Frankel*</b>, Ana Maria Bedoya, Katherin Arango-Goméz, Nicholas Brigida, Laura Lagomarsino, and Cécile Ané. (2026). Introgression and trait evolution in the Neotropical bellflowers (Campanulaceae: Lobelioideae). American Society of Plant Taxonomists Webinar Series."
-    - "<b>Lauren Frankel*</b>. (2025). Challenges in inferring hybridization: impacts of substitution rate variation and network complexity on accuracy. University of Rochester, Rochester, NY."
+    Contributed Presentations:
+      - bullet: "Lauren Frankel*, Ana Maria Bedoya, Katherin Arango-Goméz, Nicholas Brigida, Laura Lagomarsino, Cécile Ané. (2026). Introgression and trait evolution in the Neotropical bellflowers (Campanulaceae: Lobelioideae). Botany, Tucson, AZ. (Cooley Award winner)"
+      - bullet: "Lauren Frankel* and Cécile Ané. (2025). Low accuracy of complex graph inference from f-statistics. Evolution, online + Athens, GA. (Mayr Award finalist)."
+      - bullet: "Lauren Frankel* and Cécile Ané. (2024). Low accuracy of complex graph inference from f-statistics. Botany Informal Talk Series, UW-Madison."
+      - bullet: "Lauren Frankel* and Cécile Ané. (2024). f-statistics and other summary tests of admixture or introgression are sensitive to rate variation across lineages. Joint Congress on Evolutionary Biology, Montréal, Canada."
+      - bullet: "Lauren Frankel* and Cécile Ané. (2023). Summary tests of introgression are highly sensitive to rate variation across lineages. Botany Conference, Boise, ID."
+      - bullet: "Cécile Ané* and Lauren Frankel. (2023). Summary tests of introgression are highly sensitive to rate variation across lineages. Mathematical and Computational Evolutionary Biology, Corsica."
+      - bullet: "Lauren Frankel* and Cécile Ané. (2023). Summary tests of introgression are highly sensitive to rate variation across lineages. Botany Informal Talk Series, UW-Madison."
+      - bullet: "Lauren Frankel* and Anahí Espíndola. (2021). Biogeography and ecological drivers of evolution in the Andes: resolving the phylogenetic backbone for Calceolaria (Calceolariaceae). Virtual Evolution Meeting."
+      - bullet: "Lauren Frankel* and Laura Lagomarsino. (2020). The fruit doesn't fall far from the gene tree: Relationship between fruit type and gene tree discordance in Neotropical Lobelioideae. Botany Virtual Conference lightning talk."
+      - bullet: "Lauren Frankel* and Anahí Espíndola. (2020). Evolutionary history and biogeography of slipperflowers, Calceolaria (Calceolariaceae). Botany Virtual Conference."
+      - bullet: "Lauren Frankel*, Laura Lagomarsino, Simon Uribe-Convers, Monica Carlsen, Alexandre Antonelli, and Nathan Muchhala. (2019). Promises and pitfalls of herbarium phylogenomics: A case study in a Neotropical plant radiation. Grinnell College Biology department seminar."
+      - bullet: "Laura Lagomarsino*, Simon Uribe-Convers, Lauren Frankel, Monica Carlsen, Alexandre Antonelli, and Nathan Muchhala. (2019). Promises and pitfalls of herbarium phylogenomics: A case study in a Neotropical plant radiation. Botany Conference colloquium talk, Rochester, MN."
+      - bullet: "Lauren Frankel* and Michael Reagon. (2018). Untangling the range expansion of an invasive agricultural weed, Palmer amaranth. Grinnell College Biology department seminar."
 
-- title: Contributed Presentations
-  type: list
-  contents:
-    - "<b>Lauren Frankel*</b>, Ana Maria Bedoya, Katherin Arango-Goméz, Nicholas Brigida, Laura Lagomarsino, Cécile Ané. (2026). Introgression and trait evolution in the Neotropical bellflowers (Campanulaceae: Lobelioideae). Botany, Tucson, AZ. (Cooley Award winner)"
-    - "<b>Lauren Frankel*</b> and Cécile Ané. (2025). Low accuracy of complex graph inference from f-statistics. Evolution, online + Athens, GA. (Mayr Award finalist)."
-    - "<b>Lauren Frankel*</b> and Cécile Ané. (2024). Low accuracy of complex graph inference from f-statistics. Botany Informal Talk Series, UW-Madison."
-    - "<b>Lauren Frankel*</b> and Cécile Ané. (2024). f-statistics and other summary tests of admixture or introgression are sensitive to rate variation across lineages. Joint Congress on Evolutionary Biology, Montréal, Canada."
-    - "<b>Lauren Frankel*</b> and Cécile Ané. (2023). Summary tests of introgression are highly sensitive to rate variation across lineages. Botany Conference, Boise, ID."
-    - "Cécile Ané* and <b>Lauren Frankel</b>. (2023). Summary tests of introgression are highly sensitive to rate variation across lineages. Mathematical and Computational Evolutionary Biology, Corsica."
-    - "<b>Lauren Frankel*</b> and Cécile Ané. (2023). Summary tests of introgression are highly sensitive to rate variation across lineages. Botany Informal Talk Series, UW-Madison."
-    - "<b>Lauren Frankel*</b> and Anahí Espíndola. (2021). Biogeography and ecological drivers of evolution in the Andes: resolving the phylogenetic backbone for Calceolaria (Calceolariaceae). Virtual Evolution Meeting."
-    - "<b>Lauren Frankel*</b> and Laura Lagomarsino. (2020). The fruit doesn't fall far from the gene tree: Relationship between fruit type and gene tree discordance in Neotropical Lobelioideae. Botany Virtual Conference lightning talk."
-    - "<b>Lauren Frankel*</b> and Anahí Espíndola. (2020). Evolutionary history and biogeography of slipperflowers, Calceolaria (Calceolariaceae). Botany Virtual Conference."
-    - "<b>Lauren Frankel*</b>, Laura Lagomarsino, Simon Uribe-Convers, Monica Carlsen, Alexandre Antonelli, and Nathan Muchhala. (2019). Promises and pitfalls of herbarium phylogenomics: A case study in a Neotropical plant radiation. Grinnell College Biology department seminar."
-    - "Laura Lagomarsino*, Simon Uribe-Convers, <b>Lauren Frankel</b>, Monica Carlsen, Alexandre Antonelli, and Nathan Muchhala. (2019). Promises and pitfalls of herbarium phylogenomics: A case study in a Neotropical plant radiation. Botany Conference colloquium talk, Rochester, MN."
-    - "<b>Lauren Frankel*</b> and Michael Reagon. (2018). Untangling the range expansion of an invasive agricultural weed, Palmer amaranth. Grinnell College Biology department seminar."
+    Selected Contributed Posters:
+      - bullet: "Tyler Wintermute*, Lauren Frankel, Sarah Kapsner, Bryan Connelly, and Ken Keefover-Ring. (2025). Salicinoid Salad: Evolution of salicinoids in the Salicaceae tribe Saliceae (Populus and Salix). Plant Herbivore Interaction Gordon Research Conference, Pomona, CA."
+      - bullet: "Lauren Frankel* and Anahí Espíndola. (2020). Evolutionary relationships and plastome structure in slipperflowers (Calceolariaceae: Calceolaria). Society of Systematic Biologists Meeting, Gainesville, FL."
+      - bullet: "Lauren Frankel*, Simon Uribe-Convers, Nathan Muchhala and Laura Lagomarsino. (2019). Promises and pitfalls of herbarium phylogenomics: A case study in a Neotropical plant radiation. Evolution Meetings, Providence, RI."
+      - bullet: "Lauren Frankel* and Michael Reagon. (2017). Untangling the range expansion of an invasive agricultural weed, Palmer amaranth. Next-Gen Evolutionary Biology REU Poster Session."
 
-- title: Selected Contributed Posters
-  type: list
-  contents:
-    - "Tyler Wintermute*, <b>Lauren Frankel</b>, Sarah Kapsner, Bryan Connelly, and Ken Keefover-Ring. (2025). Salicinoid Salad: Evolution of salicinoids in the Salicaceae tribe Saliceae (Populus and Salix). Plant Herbivore Interaction Gordon Research Conference, Pomona, CA."
-    - "<b>Lauren Frankel*</b> and Anahí Espíndola. (2020). Evolutionary relationships and plastome structure in slipperflowers (Calceolariaceae: Calceolaria). Society of Systematic Biologists Meeting, Gainesville, FL."
-    - "<b>Lauren Frankel*</b>, Simon Uribe-Convers, Nathan Muchhala and Laura Lagomarsino. (2019). Promises and pitfalls of herbarium phylogenomics: A case study in a Neotropical plant radiation. Evolution Meetings, Providence, RI."
-    - "<b>Lauren Frankel*</b> and Michael Reagon. (2017). Untangling the range expansion of an invasive agricultural weed, Palmer amaranth. Next-Gen Evolutionary Biology REU Poster Session."
+    Invited Workshop Talks:
+      - bullet: "Lauren Frankel and Cécile Ané. (2023). Comparative methods on networks, Methodological advances in reticulate evolution workshop. Botany Conference, Boise, ID."
 
-- title: Invited Workshop Talks
-  type: list
-  contents:
-    - "<b>Lauren Frankel</b> and Cécile Ané. (2023). Comparative methods on networks, Methodological advances in reticulate evolution workshop. Botany Conference, Boise, ID."
+    Workshops & Trainings Attended:
+      - name: Research Mentor Training
+        location: University of Wisconsin–Madison
+        date: 2024
+      - name: Midwest Phylogenetics Workshop
+        location: University of Minnesota
+        date: 2019
 
-- title: Workshops & Trainings Attended
-  type: time_table
-  contents:
-    - title: Research Mentor Training
-      institution: University of Wisconsin–Madison
-      year: 2024
-    - title: Midwest Phylogenetics Workshop
-      institution: University of Minnesota
-      year: 2019
+    Society Memberships:
+      - bullet: "Society of Systematic Biologists"
+      - bullet: "American Society of Plant Taxonomists"
 
-- title: Society Memberships
-  type: list
-  contents:
-    - "Society of Systematic Biologists"
-    - "American Society of Plant Taxonomists"
-
-- title: Service, Leadership & Mentorship
-  type: map
-  contents:
-    - name: Peer Reviewer
-      value: "Systematic Biology (4x), Evolution (1x)"
-    - name: Organizer / Leader
-      value: "Phylogenetics Support Group (UW-Madison Botany Dept, 2021–2024), Friday Afternoon Club (weekly graduate student social, UW-Madison Botany Dept, 2022–2024)"
-    - name: Committees
-      value: "Awards Review Panel (UW Biology, Spring 2026), Awards Committee (UW-Madison Botany Dept, 2021–2025), Student Educational Policy Committee (Grinnell College Biology Dept, 2017–2019; peer-elected), Center for Prairie Studies Board (Grinnell College, 2016–2019)"
-    - name: Panels
-      value: "Graduate School Informational Panel (Botany Club of UW-Madison, 2023), Grad School Interview Panel (Latinx in the Marine Sciences, 2021), Strategies for Engaging Undergraduate Researchers (Society of Systematic Biologists Meeting, 2018)"
-    - name: Mentoring
-      value: "Nicholas Brigida (UW-Madison Computer Sciences undergraduate, 2024–2025), GRFP Application Mentoring (Botanical Society of America, 2020–2023)"
+    Service, Leadership & Mentorship:
+      - label: Peer Reviewer
+        details: "Systematic Biology (4x), Evolution (1x)"
+      - label: Organizer / Leader
+        details: "Phylogenetics Support Group (UW-Madison Botany Dept, 2021–2024), Friday Afternoon Club (weekly graduate student social, UW-Madison Botany Dept, 2022–2024)"
+      - label: Committees
+        details: "Awards Review Panel (UW Biology, Spring 2026), Awards Committee (UW-Madison Botany Dept, 2021–2025), Student Educational Policy Committee (Grinnell College Biology Dept, 2017–2019; peer-elected), Center for Prairie Studies Board (Grinnell College, 2016–2019)"
+      - label: Panels
+        details: "Graduate School Informational Panel (Botany Club of UW-Madison, 2023), Grad School Interview Panel (Latinx in the Marine Sciences, 2021), Strategies for Engaging Undergraduate Researchers (Society of Systematic Biologists Meeting, 2018)"
+      - label: Mentoring
+        details: "Nicholas Brigida (UW-Madison Computer Sciences undergraduate, 2024–2025), GRFP Application Mentoring (Botanical Society of America, 2020–2023)"
