@@ -14,8 +14,8 @@ Instead in EEB, you generally specify who you’d like to be your primary PhD ad
 
 So how do you get in touch with some scary PIs (principal investigators) from different institutions that probably haven’t even heard of you before?!? Dr. Jacquelyn Gill has an [awesome blog post](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) on how to nail that inquiry email. My two cents is that in every cold email/cover letter I send, I try to remember these things:
 
-* **Show you put in a little research on the PI.** Peruse their website, take a look at their papers, and try to identify the intersection of your interests and their work. You can name drop a paper you particularly liked in the email.
-* The cold email is not only for saying why the PI would be such a great fit for you, but what skills and expertise you have to offer to the lab, and **why it’s a no brainer they should admit you to their lab**.
+- **Show you put in a little research on the PI.** Peruse their website, take a look at their papers, and try to identify the intersection of your interests and their work. You can name drop a paper you particularly liked in the email.
+- The cold email is not only for saying why the PI would be such a great fit for you, but what skills and expertise you have to offer to the lab, and **why it’s a no brainer they should admit you to their lab**.
 
 Now, with that said, PIs are generally busy and certain times of the year (summer during conference and field work season, beginnings and endings of semester, etc.) your email might get buried in their inbox. Don’t be afraid to send a reminder email in two-ish weeks.
 

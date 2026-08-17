@@ -1,6 +1,6 @@
 ---
 layout: post
-title: start of postdoc 
+title: start of postdoc
 date: 2025-10-16 07:59:00-0400
 inline: true
 related_posts: false
