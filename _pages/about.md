@@ -7,10 +7,8 @@ subtitle: Evolutionary Biologist | Postdoctoral Researcher at University of Wash
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crop to circle if true
+  image_circular: true # crop to circle if true
   more_info: >
-    <p>Tribble Lab</p>
-    <p>University of Washington</p>
 
 announcements:
   enabled: true # includes a list of news items
