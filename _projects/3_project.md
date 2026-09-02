@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Introgression & trait evolution in Neotropical bellflowers
-description: Hybridization and floral trait evolution in Campanulaceae, Lobelioideae
-img:
+title: Calceolaria biogeography
+description: Resolving the phylogenetic backbone of Andean slipperflowers
+img: assets/img/publication_preview/calceolaria.jpeg
 importance: 3
 category: research
 related_publications: true
 ---
 
-The Neotropical bellflowers (Campanulaceae: Lobelioideae) are a rapid, spectacular plant radiation with striking floral diversity. For my dissertation, I combined herbarium phylogenomic data with the accuracy-tested methods from my other work to assess the relationship between introgression and trait evolution across this clade.
+Before starting my PhD, I worked as a data analyst in the Espíndola Lab extracting, aligning, and annotating chloroplast genomes across 14 _Calceolaria_ (Calceolariaceae) species — Andean slipperflowers — toward resolving the genus's phylogenetic backbone and modeling its biogeographic history ({% cite frankel2022biogeography %}).
 
-This built on earlier phylogenomic work resolving relationships within the group ({% cite lagomarsino2022increased %}), and the resulting study on introgression and trait evolution ({% cite frankel2026introgression %}) is currently in revision. This project was done in collaboration with the Lagomarsino Lab and Dr. Cécile Ané.
+I've continued working with _Calceolaria_ as a postdoc in the Tribble Lab, now estimating the relationship between niche overlap and hybridization histories across the genus.

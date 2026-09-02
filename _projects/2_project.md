@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Accuracy of admixture graph inference
-description: Evaluating complex admixture graph inference from f-statistics through simulation
-img:
+title: Neotropical bellflower systematics
+description: Hybridization and floral trait evolution in Campanulaceae, Lobelioideae
+img: assets/img/publication_preview/S_werdermannii_2.JPG
 importance: 2
 category: research
 related_publications: true
 ---
 
-Admixture graphs inferred from f-statistics are widely used to reconstruct complex histories of population and species mixture. I evaluated the accuracy of these inference methods on more complex graphs than have typically been tested, using extensive simulations.
+The Neotropical bellflowers (Campanulaceae: Lobelioideae) are a rapid, spectacular plant radiation with striking floral diversity. I've been working with Dr. Laura Lagomarsino at Louisiana State University since 2018 on their systematics.
 
-The results show that accuracy drops considerably as graph complexity increases, which has implications for how confidently these methods can be applied to real, complicated evolutionary histories. See {% cite frankel2026low %} for the full study.
+As an undergraduate, I worked on an updated evolutionary history for this group, increasing taxon and gene sampling relative to previous work on the group and making large use of herbarium samples ({% cite lagomarsino2022increased %}).
+
+For my dissertation, I returned to this group, using my expertise in phylogenetic network methods to assess the presence of reticulate evolution in this group, and its impact on trait evolution. This work is currently in preparation ({% cite frankel2026introgression %}) and I was recently awarded the Cooley Award at the annual Botany Meeting 2026 for this work.
