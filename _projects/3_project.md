@@ -1,6 +1,6 @@
 ---
 layout: page
-title: *Calceolaria* biogeography
+title: Calceolaria biogeography
 description: Resolving the phylogenetic backbone of Andean slipperflowers
 img: assets/img/publication_preview/calceolaria.jpeg
 importance: 3

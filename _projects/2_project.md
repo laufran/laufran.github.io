@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neotropical bellflower systematics
-description: "Phylogenomics, hybridization, and trait evolution in Campanulaceae: Lobelioideae"
+description: Phylogenomics, hybridization, and trait evolution in Campanulaceae
 img: assets/img/publication_preview/S_werdermannii_2.JPG
 importance: 2
 category: research
