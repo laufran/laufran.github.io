@@ -4,7 +4,6 @@ title: Comparative Methods on Networks (Botany 2023 Workshop)
 description: Workshop on phylogenetic comparative methods on networks, co-taught with Dr. Cécile Ané at the 2023 Botany conference.
 instructor: Botany Conference, Boise, ID
 year: 2023
-term: Summer
 location: Boise, ID
 course_id: botany2023-networks
 ---
