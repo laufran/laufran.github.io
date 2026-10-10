@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom
 ---
 
-Hi there! I am a post-doc in the [Tribble Lab](https://tribblelab.github.io/) at the University of Washington.
+Hi there! I am a post-doc in the [Tribble Lab](https://tribblelab.org/) at the University of Washington.
 
 I'm an evolutionary biologist studying the inference of hybridization in evolutionary histories. Particularly, I'm interested in illuminating assumptions of inference methods and their performances when broken, developing useful tools and documentation, and testing these in empirical systems. I have a particular fondness for Andean angiosperm radiations — studying the evolution of their floral morphologies, pollination systems, and biogeography.
 
