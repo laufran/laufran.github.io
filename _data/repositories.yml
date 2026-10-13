@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - tribblelab/PlantOccurrences.jl
   - laufran/f4-ratevar
   - cecileane/simulation-ratevariation
